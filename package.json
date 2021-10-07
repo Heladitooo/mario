@@ -1,0 +1,20 @@
+{
+  "name": "new-mario-neta",
+  "version": "1.0.0",
+  "description": "private discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Heladitooo",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "events": "^3.3.0",
+    "googleapis": "^88.2.0",
+    "js-base64": "^3.7.2"
+  }
+}
